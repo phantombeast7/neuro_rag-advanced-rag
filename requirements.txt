@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+faiss-cpu
+pypdf
+python-docx
+pandas
+streamlit
+requests
+scikit-learn
+pdfplumber
+unstructured
+openpyxl
+google-genai
+langchain-community
+sentence-transformers
